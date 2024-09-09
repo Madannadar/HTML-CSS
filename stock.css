@@ -1,0 +1,27 @@
+p{
+    font-family: arial;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-left: 12px;
+}
+.price{
+    font-size: 50px;
+    font-weight:lighter;
+}
+.usd{
+    font-size: 20px;
+    color:rgb(96,96,96);
+}
+.today{
+    color:green;
+    font-size: 25px;
+   margin-top: 10px;
+}
+    .now{
+        font-size: 25px;
+        color:rgb(96,96,96);
+        margin-top: 10px;
+    }
+    .live{
+        color:rgb(144, 7, 7);
+    }
